@@ -28,6 +28,27 @@
   color: #61dafb;
 }
 
+button{
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 5%;
+      color: white;
+      padding: 12px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+}
+
+input {
+      width: 30%;
+      padding: 12px 20px;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
